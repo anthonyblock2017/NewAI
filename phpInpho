@@ -1,1 +1,2 @@
 <?php phpInfo(); ?>
+<?php test();?>
