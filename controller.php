@@ -5,7 +5,7 @@ public TEST() {
   
 }
   public static run(){
-  private int a=1123224365335;
+  private int a=115;
   a = a + 100;
 tr{}
   }
